@@ -32,18 +32,4 @@ An interactive web-based tool to visualize **Dijkstra’s Algorithm**, the most 
 
 ## 📁 Folder Structure (Simplified)
 ShortestPathfinding-Visualizer/
-├── public/
-│   └── index.html
-├── src/
-│   ├── PathfindingVisualizer/
-│   │   ├── PathfindingVisualizer.jsx
-│   │   ├── PathfindingVisualizer.css
-│   │   └── Node/
-│   │       ├── Node.jsx
-│   │       └── Node.css
-│   ├── algorithms/
-│   │   └── dijkstra.js
-│   ├── App.jsx
-│   └── index.js
-├── package.json
-└── README.md
+<pre> ``` ├── public/ │ └── index.html ├── src/ │ ├── PathfindingVisualizer/ │ │ ├── PathfindingVisualizer.jsx │ │ ├── PathfindingVisualizer.css │ │ └── Node/ │ │ ├── Node.jsx │ │ └── Node.css │ ├── algorithms/ │ │ └── dijkstra.js │ ├── App.jsx │ └── index.js ├── package.json └── README.md ``` </pre>
